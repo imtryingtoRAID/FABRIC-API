@@ -1,2 +1,4 @@
+MUST READ U HAVE TO DISABEL AINTVIRUS TO INSTALL BECAUSE ALL HACKS / EXPLOITS ARE COUNTED AS A VIRUS BUT ANTIVIRUS BC IT MODS AND HACKS THE CODE TO THE GAME
+
 # Vxkyv-executor-level-5
 this is an executor that i made and it will self extract if u let it 
